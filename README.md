@@ -43,7 +43,25 @@ Para comprovar foi feito o espalhamento de maneira errada, ou seja, no chip foi 
 
 Logo, no recepitor onde todos o bits do chip estarão corretos, quando o processo de recuperação rodar a saída será diferente da entrada.
 
+FIGURE 5 -- FIGURE 6
 
+Agora, para demonstrar como os códigos ortogonais são potentes, faremos o processo para dois usuarios.
+
+FIGURE 7
+
+Multiplicando cada entrada por um chip ortogonal e depois somando ambos os sinais.
+
+FIGURE 8 
+
+O vetor com a soma, quando for multiplicado pelo chip 1, deve retornar a entrada do primeiro usuário, pois a correlação entre o chip 1 e o chip 2 é zero.
+
+FIGURE 9
+
+FIGURE 10
+
+Espero que tenha ficado claro com esse exemplo a tecnológia CDMA.
+
+Obrigado pela atenção!!
 
 
 
